@@ -24,5 +24,3 @@ Features
 Canva:
 https://www.canva.com/design/DAGenFB2EKI/_RjE6KaoL9vMQ0V81koSVw/edit?utm_content=DAGenFB2EKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Video:
-https://vimeo.com/1059230800?share=copy
