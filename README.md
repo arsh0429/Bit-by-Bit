@@ -1,4 +1,4 @@
-# Bit by Bit
+# Bit-by-Bit
 Secure Invoice - Onchain Real Time Payments & Invoicing
 
 Secure Invoice is an invoicing and real time payments application designed for freelancers, private tutors, mentors and gig workers.
